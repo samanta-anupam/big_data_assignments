@@ -3,14 +3,14 @@ Assignments as given in the course of CSE545.
 
 ### Blog Corpus Industry Mention count using Spark: ###
 #### Assignment 1: ####
-
-In this assignment, we were supposed to parse the blog corpus:(http://u.cs.biu.ac.il/~koppel/BlogCorpus.htm) and run on spark to 
+_Dataset: http://u.cs.biu.ac.il/~koppel/BlogCorpus.htm_
+In this assignment, we were supposed to parse the blog corpus and run on spark to 
   1. Find all the industries.
   2. Get the number of times a industry was mentioned in all the blogs
 
 ### Satellite Image Analysis to find similar regions using Spark and AWS ###
 #### Assignment 2: ####
-_Dataset: https://lta.cr.usgs.gov/high_res_ortho_
+_Dataset: https://lta.cr.usgs.gov/high_res_ortho_  
 The goal of the assignment was to find similar regions in Long island using satellite image and running the code as in AWS.
 
 Objectives:
