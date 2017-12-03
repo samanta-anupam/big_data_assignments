@@ -3,7 +3,7 @@ Assignments as given in the course of CSE545.
 
 ### Blog Corpus Industry Mention count using Spark: ###
 #### Assignment 1: ####
-_Dataset: http://u.cs.biu.ac.il/~koppel/BlogCorpus.htm_
+_Dataset: http://u.cs.biu.ac.il/~koppel/BlogCorpus.htm_  
 In this assignment, we were supposed to parse the blog corpus and run on spark to 
   1. Find all the industries.
   2. Get the number of times a industry was mentioned in all the blogs
